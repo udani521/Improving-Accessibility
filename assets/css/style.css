@@ -206,3 +206,5 @@ p {
 footer {
     display: block;
   }
+  {outline: 1px solid black;
+    outline-offset: 15px;}
